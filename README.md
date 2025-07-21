@@ -3,7 +3,7 @@
 ![PyPI version](https://img.shields.io/pypi/v/uniquetoolkit.svg)
 ![Python Versions](https://img.shields.io/pypi/pyversions/uniquetoolkit.svg)
 ![License](https://img.shields.io/pypi/l/uniquetoolkit.svg)
-![Build Status](https://github.com/navidsoleymani/unique/actions/workflows/ci.yml/badge.svg)
+
 
 ---
 
